@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sulav Pandey
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on React Projects 
 
