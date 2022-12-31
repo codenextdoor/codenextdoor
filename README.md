@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sulav Pandey
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning MERN STACK
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning PERN STACK
 - 💞️ I’m looking to collaborate on React Projects 
 
 - 📫 How to reach me 
