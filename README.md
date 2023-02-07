@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sulav Pandey
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning PERN STACK
+- 🌱 I’m currently learning Full Stack Django
 - 💞️ I’m looking to collaborate on React Projects 
 
 - 📫 How to reach me 
