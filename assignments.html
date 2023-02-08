@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // WAP CM TO INCHES
+      const cmToInches = (cm) => {
+        return cm / 2.54;
+      };
+
+      let centimeters = 10;
+      let inches = cmToInches(centimeters);
+      document.write(
+        `${centimeters} cm is equals to ${inches} inches <br> <hr>`
+      );
+
+      // WAP Celsius to Fahrenheit
+
+      const celsiusToFahrenheit = (celsius) => {
+        return (celsius * 9) / 5 + 32;
+      };
+
+      let celsius = 10;
+      let fahrenheit = celsiusToFahrenheit(celsius);
+      document.write(
+        `${celsius} degrees celsius is equals to ${fahrenheit} degrees fahrenheit`
+      );
+    </script>
+  </body>
+</html>
