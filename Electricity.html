@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      const unitsConsumed = prompt("Enter the number of units consumed:");
+
+      const units = Number(unitsConsumed);
+
+      let ratePerUnit;
+      if (units >= 0 && units <= 200) {
+        ratePerUnit = 5;
+      } else if (units <= 400) {
+        ratePerUnit = 8;
+      } else {
+        ratePerUnit = 10;
+      }
+
+      const billAmount = ratePerUnit * units;
+
+      document.write(
+        `Your electricity bill for ${units} units is ${billAmount} rupees.`
+      );
+    </script>
+  </body>
+</html>
